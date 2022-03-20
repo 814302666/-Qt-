@@ -1,11 +1,1 @@
-# -Qt-
-本项目是利用Qt实现的聊天系统，能实现注册、聊天、添加好友、语音聊天、视频聊天等功能
-主要实现功能有：1、注册
-               2、自动登录、记住密码
-               3、加好友
-               4、搜索
-               5、聊天
-               6、文件传输
-               7、语音聊天
-               8、视频聊天
-               
+GBPduHjWfJU1mZqcPM3BikjYKF6xKhlKIys3i1MU2eJHqWGImDHzWdD6xhMNLGVpbP2M5SN6bnxn2kSE8qHqNY5QaaRxmO3YSMHxlv2EYpjdwLcPwfeTG7kUdnhKE0vVy4RidP6Y2wZ0q74f47fzsZo45JE2hfQBFi2O9Jldjp1mW8HUpTtLA2a5/sQytXJUQl/QKO0jUQY4pa5CCx20sV1ClOTZtAGngSOJtIOFXK599sBr5aIEFyH0K7H4BoNMiiDMnxt1rD8Vb/ikJdhGMMQr0R4B+L3nWU97eaVPTRKfWGDE8/eAgKzpGwrQQoDh+nzX1xoVQ8NAuH+s4UcSeQ==
