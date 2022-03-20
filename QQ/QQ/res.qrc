@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/1.jpg</file>
+        <file>image/2.jpg</file>
+        <file>image/3.jpg</file>
+        <file>image/4.jpg</file>
+        <file>image/index.jpg</file>
+        <file>image/qq.png</file>
+        <file>image/x.jpg</file>
+        <file>image/qq.jpg</file>
+        <file>image/加粗.jpg</file>
+        <file>image/JC.png</file>
+        <file>image/qx.png</file>
+        <file>image/XHX.png</file>
+        <file>image/YS.png</file>
+        <file>image/BC.png</file>
+        <file>image/`HJ8@K[456G`KN_9@DOB7WC.png</file>
+        <file>image/bc.jpg</file>
+        <file>image/xiaoding.jpg</file>
+        <file>image/xiaohu.jpg</file>
+        <file>image/xiaopang.jpg</file>
+        <file>image/xiaowu.jpg</file>
+        <file>image/xiaozhu.jpg</file>
+        <file>image/color.png</file>
+        <file>image/qingchu.png</file>
+        <file>image/BJ.png</file>
+        <file>image/ZCBJ.png</file>
+        <file>image/zcbj.jpg</file>
+        <file>image/JHY.jpg</file>
+        <file>image/jhys.jpg</file>
+        <file>image/CZBJ.png</file>
+        <file>image/cztb.png</file>
+        <file>image/CZTB.jpg</file>
+        <file>image/JHY.png</file>
+        <file>image/file.png</file>
+        <file>image/WJ.png</file>
+        <file>image/TX.png</file>
+        <file>image/FD.png</file>
+        <file>image/close.png</file>
+        <file>image/SPTX.png</file>
+        <file>image/GD.png</file>
+        <file>image/YY.png</file>
+    </qresource>
+</RCC>
